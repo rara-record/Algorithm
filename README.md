@@ -6,5 +6,6 @@
 
 | 난이도  | 문제이름                                                     | 풀이링크                                                     |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Level 1 | [로또 최저, 최고 순위 구하기](https://programmers.co.kr/learn/courses/30/lessons/77484?language=javascript) | [바로가기](https://github.com/rara-record/Algorithm/tree/main/lottos) |
+| Level 1 | [로또 최저, 최고 순위 구하기](https://programmers.co.kr/learn/courses/30/lessons/77484?language=javascript) | [바로가기](https://github.com/rara-record/Algorithm/tree/main/77484) |
+| Level 1 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=javascript) | [바로가기](https://github.com/rara-record/Algorithm/tree/main/72410) |
 
